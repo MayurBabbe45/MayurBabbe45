@@ -3,11 +3,8 @@
 </p>
 <h1 align="center">Hi 👋, I'm Mayur Babbe</h1>
 <h3 align="center">A passionate IT Engineering student from India</h3>
-🔭 Project i made <span><ul>
-  <li>[Kitchen Story](https://kitchen-story-msb.netlify.app)</li>
-  <li>[To do list](https://to-do-list-mayur.netlify.app)</li>
-</ul>
-</span>           
+
+         
 
 🌱 I’m currently learning Web Development
 
