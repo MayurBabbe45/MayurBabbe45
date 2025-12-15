@@ -47,11 +47,13 @@ A complete carpentry labor & project management system.
 
 ---
 
-### ⭐ **3) SleekSpeak – Skin Care Community**  
-A modern platform for skincare discussions.  
-- Users share routines, tips, and questions  
-- Smooth UI and engagement-focused design  
-- Mobile-friendly, built with MERN  
+### ⭐ **3) GameWebsite – Immersive Gaming Frontend**
+
+A modern, visually rich gaming-themed web experience.
+
+* Built using **Vite + React** with **Tailwind CSS** styling
+* Smooth, cinematic animations powered by **GSAP**
+* Fully responsive design with award-style UI and interactions
 
 ---
 
