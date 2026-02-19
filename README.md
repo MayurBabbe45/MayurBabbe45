@@ -6,12 +6,8 @@
 ## 🌟 About Me  
 Hey! I’m Mayur — an IT Engineering graduate (2025) who loves turning ideas into clean, functional, and user-friendly web applications.
 
-- 🔥 Just completed my freelance project **Scruze Money**  
-- 🛠️ Building real-world apps using the **MERN Stack**  
-- 🎓 Graduated in **2025 (SPPU)**  
-- 💡 Passionate about solving everyday problems through tech  
-- 📧 Reach me at **babbemayur45@gmail.com**  
-- ⚡ Fun fact: I don’t touch the code if it’s working 😄  
+- 🔥 Just completed my freelance project **Scruze Money** - 🛠️ Building real-world apps using the **MERN Stack** - 🎓 Graduated in **2025 (SPPU)** - 💡 Passionate about solving everyday problems through tech  
+- 📧 Reach me at **babbemayur45@gmail.com** - ⚡ Fun fact: I don’t touch the code if it’s working 😄  
 
 ---
 
@@ -31,19 +27,17 @@ Hey! I’m Mayur — an IT Engineering graduate (2025) who loves turning ideas i
 
 ## 🏗️ Featured Projects
 
-### ⭐ **1) Scruze Money (Freelance Project)**  
-A finance management platform built for real users.  
+### ⭐ **1) Scruze Money (Freelance Project)** A finance management platform built for real users.  
 - Tracks expenses, income, and savings  
 - Clean UI & responsive dashboard  
 - Secure MERN stack architecture  
 
 ---
 
-### ⭐ **2) Carpenter’s Ease Life**  
-A complete carpentry labor & project management system.  
-- Client ↔ Carpenter workflow  
-- Attendance, overtime, leaves, monthly tracking  
-- Built to solve real-world labor management issues  
+### ⭐ **2) Backend Bank Ledger System** A robust, secure, and fully functional banking transaction API.  
+- Implemented an immutable double-entry ledger system  
+- ACID-compliant money transfers using MongoDB Sessions  
+- Built with secure JWT authentication, token blacklisting, and dynamic balance calculations  
 
 ---
 
@@ -57,8 +51,7 @@ A modern, visually rich gaming-themed web experience.
 
 ---
 
-### ⭐ **4) Precision Nutrition AI**  
-AI-powered personalized diet generator.  
+### ⭐ **4) Precision Nutrition AI** AI-powered personalized diet generator.  
 - Users input health details → AI creates a 30-day nutrition plan  
 - Powered by Gemini models  
 - Built to make nutrition simple and data-driven  
