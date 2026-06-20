@@ -88,19 +88,19 @@ A production-grade financial platform with enterprise-level security and data in
 </td>
 <td width="50%" valign="top">
 
-### 🗣️ Sleek Speak — MERN Application
-[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://loreal-men.onrender.com)
+### 🎥 StreamHub — Secure Media Platform
+[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=netlify&logoColor=white)](https://streamhub45.netlify.app)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-A full-stack, cloud-deployed web application following MVC architecture.
+A secure B2B media feed and corporate training platform with real-time interactions.
 
 **Key Features:**
-- 🔒 JWT-based authentication with protected API routes
-- 🔄 RESTful APIs with structured JSON data exchange
-- ☁️ Cloud-deployed with 100% post-launch uptime
-- 📄 Complete API documentation and system architecture
+- 🔒 Isolated corporate catalogs with strict access-request gates
+- 💬 Real-time chat functionality engineered via **Socket.io**
+- ⏱️ Automated 10-day data retention utilizing MongoDB TTL indexes
+- 📊 Admin compliance dashboard with real-time video watch-time auditing
 
 </td>
 </tr>
